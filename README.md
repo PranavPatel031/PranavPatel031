@@ -14,39 +14,36 @@ I'm a Full Stack Developer passionate about building practical, user-friendly we
 * 🌱 Always learning and exploring new technologies
 * 📍 Gujarat, India
 
-## 🛠️ Tech Stack
+## 🛠️ Languages
 
-### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+</p>
 
-* Java
-* JavaScript
-* HTML5
-* CSS3
+## 🎨 Frontend
 
-### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap" />
+</p>
 
-* React.js
-* Bootstrap
+## ⚙️ Backend
 
-### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
 
-* Node.js
-* Express.js
-* Spring Boot
-* REST APIs
+## 🗄️ Database
 
-### Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-* MySQL
-* MongoDB
+## 🔧 Tools
 
-### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
-* Git
-* GitHub
-* Postman
-* VS Code
-.
 ## 📈 Currently Learning
 
 * Node.js & Express.js
@@ -57,6 +54,15 @@ I'm a Full Stack Developer passionate about building practical, user-friendly we
 
 ## 🤝 Connect With Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/pranav-patel-gec-ldce-it-dte)
-* 💻 [GitHub](https://github.com/PranavPatel031)
+<p align="left">
+  <a href="https://www.linkedin.com/in/pranav-patel-gec-ldce-it-dte">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  <a href="https://github.com/PranavPatel031">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+</p>
 
+---
+
+⭐ Feel free to explore my repositories and connect with me!
