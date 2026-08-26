@@ -10,7 +10,6 @@ I'm a Full Stack Developer passionate about building practical, user-friendly we
 * 🚀 Currently working with **Node.js, Express.js and MongoDB**
 * ☕ Experienced with **Java and Spring Boot**
 * ⚛️ Building frontend applications using **React.js**
-* 📚 Currently improving my **Data Structures & Algorithms**
 * 🌱 Always learning and exploring new technologies
 * 📍 Gujarat, India
 
