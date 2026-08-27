@@ -49,7 +49,6 @@ I'm a Full Stack Developer passionate about building practical, user-friendly we
 * MongoDB
 * React.js
 * REST API Development
-* Data Structures & Algorithms
 
 ## 🤝 Connect With Me
 
